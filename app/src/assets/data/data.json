@@ -1,0 +1,26 @@
+[{
+
+    "empresa": "CAPITÁN ROJO S.A",
+    "image": "../assets/img/logounicar.jpg",
+    "duracion": "Desde 2010 a 2016",
+    "funciones": "Analista de Datos"
+
+},
+
+{
+
+    "empresa": "DIRECCION GENERAL DE CULTURA Y EDUCACIÓN - PROVINCIA DE BUENOS AIRES",
+    "image": "../assets/img/dgcye.jfif",
+    "duracion": "Desde 2016",
+    "funciones": "Profesor de Informática Secundaria y Técnica"
+
+},
+{
+
+    "empresa": "DIRECCIÓN PROVINCIAL DE EDUCACIÓN DE GESTIÓN PRIVADA",
+    "image": "../assets/img/dgcye.jfif",
+    "duracion": "Desde 2016",
+    "funciones": "Profesor de Informática Secundaria y Técnica"
+
+}
+]
