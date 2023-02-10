@@ -7,6 +7,7 @@ import { NavComponent } from './components/nav/nav.component';
 import { HeaderComponent } from './components/header/header.component';
 import { MainComponent } from './components/main/main.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { PorfolioService } from "./servicios/porfolio.service";
 import { HttpClientModule } from "@angular/common/http";
 
 
@@ -22,9 +23,11 @@ import { HttpClientModule } from "@angular/common/http";
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule,
+    HttpClientModule
+   
   ],
   providers: [],
   bootstrap: [AppComponent]
+  
 })
 export class AppModule { }
