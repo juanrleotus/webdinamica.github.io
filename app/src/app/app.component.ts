@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { PorfolioService } from "./servicios/porfolio.service";
 
 
 @Component({
@@ -8,7 +9,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   
-  constructor (){
+  constructor (public datosPorfolio:PorfolioService){
 
   }
 }
